@@ -16,3 +16,4 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 |2024.10.16|[2024-2 SW프리캡스톤 펴닝 상세설계서](./241016_2팀_상세설계서.pdf)
 
 ## III. ERD
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/6abb93b1-96ac-4eb9-af83-1c8bc2673748">
