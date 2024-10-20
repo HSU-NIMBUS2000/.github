@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Team2-NIMBUS2000&fontSize=60&animation=fadeIn&desc=SW%20Pre-Capstone%20Design%20Project&descAlignY=65&descAlign=62" 
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Team2-NIMBUS2000&fontSize=60&animation=fadeIn&desc=SW%20Pre-Capstone%20Design%20Project&descAlignY=65&descAlign=62" 
   alt="Team2-NIMBUS2000 Header" style="width: 100%;"/>
 </div>
 
@@ -44,6 +44,15 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 
 ---
 
+<p align="center">
+      자세한 보고서를 읽고 싶다면 다음 버튼을 클릭하세요.
+  <a href="https://github.com/HSU-NIMBUS2000/.github" target="_blank" style="text-decoration:none;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">📄 보고서 읽기 (Read Report)</button>
+  </a>
+</p>
+
+---
+
 ## V. 시작 가이드 (Getting Started) 🚀  
 1. **레포지토리 복제 (Clone the Repository)**  
    - Frontend:  
@@ -65,8 +74,9 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 
 ---
 
-## VI. About this README ⭐  
-This README provides a structured introduction to the **Team2-NIMBUS2000** project, including tech stack, structure, and usage instructions.
+## VI. README 소개 (About this README) ⭐  
+이 README는 **Pyeoning** 프로젝트의 기술 스택, 구조, 사용 방법을 체계적으로 소개합니다.  
+(This README provides a structured introduction to the **Pyeoning** project, including tech stack, structure, and usage instructions.)
 
 ✨ **Special Thanks** ✨  
 Special thanks to the **P-ND team** for their continuous support! 🚀  
