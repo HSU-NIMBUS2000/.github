@@ -1,5 +1,5 @@
 # Team2-NIMBUS2000  
-SW프리캡스톤디자인 님부스2000 팀 레포지토리  
+SW프리캡스톤디자인 팀2(님부스2000) 레포지토리  
 <br><br>
 
 ## I. 팀원 소개 (Team Members) 👥  
@@ -9,15 +9,20 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 | [@kmgnw](https://github.com/kmgnw) | [@jungeun-e](https://github.com/jungeun-e) | [@khyaejin](https://github.com/khyaejin) | [@eekfkt](https://github.com/eekfkt) | [@frombunny](https://github.com/frombunny) |  
 
 ---
+## II. 프로젝트 소개 (About Project) 🗂️  
+나만의 AI 정신과 의사, 펴닝
+Figma URL : 
 
-## II. 프로젝트 구조 (Project Structure) 🗂️  
+---
+
+## III. 프로젝트 구조 (Project Structure) 🗂️  
 - **Pyeoning-Frontend**: 사용자 상호작용 처리 (Frontend Interaction)  
 - **Pyeoning-Backend**: API 및 데이터 흐름 관리 (API & Data Management)  
 - **Pyeoning-AIServer**: LLM 관련 모델 관리 (Managing LLM Models)  
 
 ---
 
-## III. 기술 스택 (Tech Stack) 📚  
+## IV. 기술 스택 (Tech Stack) 📚  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot" />
@@ -27,7 +32,7 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 
 ---
 
-## IV. ERD 및 구조도 (ERD and Architecture) 📊  
+## V. ERD 및 구조도 (ERD and Architecture) 📊  
 ### 1. ERD  
 <img src="https://github.com/user-attachments/assets/8f6280bc-f699-4a8b-af31-a49f2e068b5e" width="70%" alt="ERD"/>
 
@@ -48,7 +53,7 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 
 ---
 
-## V. 시작 가이드 (Getting Started) 🚀  
+## VI. 시작 가이드 (Getting Started) 🚀  
 1. **레포지토리 복제 (Clone the Repository)**  
    - Frontend:  
      `git clone https://github.com/HSU-NIMBUS2000/Pyeoning-Frontend.git`  
@@ -69,7 +74,7 @@ SW프리캡스톤디자인 님부스2000 팀 레포지토리
 
 ---
 
-## VI. README 소개 (About this README) ⭐  
+## VII. README 소개 (About this README) ⭐  
 이 README는 **Pyeoning** 프로젝트의 기술 스택, 구조, 사용 방법을 체계적으로 소개합니다.  
 (This README provides a structured introduction to the **Pyeoning** project, including tech stack, structure, and usage instructions.)
 
