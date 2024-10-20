@@ -1,8 +1,3 @@
-<div style="width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Team2-NIMBUS2000&fontSize=60&animation=fadeIn&desc=SW%20Pre-Capstone%20Design%20Project&descAlignY=65&descAlign=62" 
-  alt="Team2-NIMBUS2000 Header" style="width: 100%;"/>
-</div>
-
 # Team2-NIMBUS2000  
 SW프리캡스톤디자인 님부스2000 팀 레포지토리  
 <br><br>
